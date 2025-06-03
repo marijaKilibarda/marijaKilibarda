@@ -1,16 +1,33 @@
-## Hi there 👋
+## 🙋🏻‍♀️ Introduction
 
-<!--
-**marijaKilibarda/marijaKilibarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My Profile Banner](profile-banner-mk.png)
+<p align="center">
+  <img src="profile-banner.jpg" alt="My Profile Banner" width="100%">
+</p>
+<p align="center">
+  <img src="profile-banner.jpg" alt="My Profile Banner" width="100%">
+</p>
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm Marija, with over 5 years of experience in digital and tech fields, I bring a multidisciplinary skill set that bridges **data-driven decision-making**, **project management**, and **visual storytelling**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 What I Do
+- Use **Python** for **data wrangling**, **exploratory analysis**, and **data visualization**. 
+- Write efficient, optimized **SQL queries** for data extraction and transformation.
+- Perform **ad-hoc analysis** and build insightful **reports**.
+- Create dynamic **dashboards** using **Tableau**.
+
+---
+
+### 📚 Projects
+Welcome to my portfolio — here you'll find real-world projects showcasing my data skills, from exploratory data analysis to end-to-end dashboard solutions.
+
+---
+
+### 🤝 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/marija-kilibarda/)  
+
+---
+
+_Thanks for visiting my GitHub!_
