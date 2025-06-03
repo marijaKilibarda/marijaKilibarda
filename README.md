@@ -1,12 +1,7 @@
 ## 🙋🏻‍♀️ Introduction
 
 ![My Profile Banner](profile-banner-mk.png)
-<p align="center">
-  <img src="profile-banner.jpg" alt="My Profile Banner" width="100%">
-</p>
-<p align="center">
-  <img src="profile-banner.jpg" alt="My Profile Banner" width="100%">
-</p>
+
 
 Welcome to my GitHub! I'm Marija, with over 5 years of experience in digital and tech fields, I bring a multidisciplinary skill set that bridges **data-driven decision-making**, **project management**, and **visual storytelling**.
 
